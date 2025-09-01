@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Rafael Teixeira de Souza
+- Matricula:1560194
+- Proposta de projeto escolhida:Banda Charlie Brown JR.
+- Breve descrição sobre seu projeto:Projeto de desenvolvimento web com tema Charlie Brown Jr., apresentando uma página inicial biográfica da banda com navegação simples e acesso às suas principais obras e integrantes.
 
 
 ## Print do(s) wireframe(s) criado
